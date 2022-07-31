@@ -1,0 +1,15 @@
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp dây cung\obj\Debug\net6.0\Phương pháp dây cung.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp dây cung\obj\Debug\net6.0\Phương pháp dây cung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp dây cung\obj\Debug\net6.0\Phương pháp dây cung.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp dây cung\obj\Debug\net6.0\Phương pháp dây cung.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp dây cung\obj\Debug\net6.0\Phương pháp dây cung.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp dây cung\bin\Debug\net6.0\Phương pháp dây cung.exe
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp dây cung\bin\Debug\net6.0\Phương pháp dây cung.deps.json
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp dây cung\bin\Debug\net6.0\Phương pháp dây cung.runtimeconfig.json
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp dây cung\bin\Debug\net6.0\Phương pháp dây cung.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp dây cung\bin\Debug\net6.0\Phương pháp dây cung.pdb
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp dây cung\obj\Debug\net6.0\Phương pháp dây cung.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp dây cung\obj\Debug\net6.0\refint\Phương pháp dây cung.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp dây cung\obj\Debug\net6.0\Phương pháp dây cung.pdb
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp dây cung\obj\Debug\net6.0\Phương pháp dây cung.genruntimeconfig.cache
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp dây cung\obj\Debug\net6.0\ref\Phương pháp dây cung.dll

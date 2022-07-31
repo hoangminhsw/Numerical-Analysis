@@ -1,0 +1,30 @@
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp tìm min max\obj\Debug\net6.0\Phương pháp tìm min max.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp tìm min max\obj\Debug\net6.0\Phương pháp tìm min max.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp tìm min max\obj\Debug\net6.0\Phương pháp tìm min max.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp tìm min max\obj\Debug\net6.0\Phương pháp tìm min max.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp tìm min max\obj\Debug\net6.0\Phương pháp tìm min max.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp tìm min max\bin\Debug\net6.0\Phương pháp tìm min max.exe
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp tìm min max\bin\Debug\net6.0\Phương pháp tìm min max.deps.json
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp tìm min max\bin\Debug\net6.0\Phương pháp tìm min max.runtimeconfig.json
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp tìm min max\bin\Debug\net6.0\Phương pháp tìm min max.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp tìm min max\bin\Debug\net6.0\Phương pháp tìm min max.pdb
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp tìm min max\obj\Debug\net6.0\Phương pháp tìm min max.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp tìm min max\obj\Debug\net6.0\refint\Phương pháp tìm min max.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp tìm min max\obj\Debug\net6.0\Phương pháp tìm min max.pdb
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp tìm min max\obj\Debug\net6.0\Phương pháp tìm min max.genruntimeconfig.cache
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp tìm min max\obj\Debug\net6.0\ref\Phương pháp tìm min max.dll
+E:\Giải tích số Final\5.Phương pháp tìm min max\bin\Debug\net6.0\Phương pháp tìm min max.exe
+E:\Giải tích số Final\5.Phương pháp tìm min max\bin\Debug\net6.0\Phương pháp tìm min max.deps.json
+E:\Giải tích số Final\5.Phương pháp tìm min max\bin\Debug\net6.0\Phương pháp tìm min max.runtimeconfig.json
+E:\Giải tích số Final\5.Phương pháp tìm min max\bin\Debug\net6.0\Phương pháp tìm min max.dll
+E:\Giải tích số Final\5.Phương pháp tìm min max\bin\Debug\net6.0\Phương pháp tìm min max.pdb
+E:\Giải tích số Final\5.Phương pháp tìm min max\obj\Debug\net6.0\Phương pháp tìm min max.csproj.AssemblyReference.cache
+E:\Giải tích số Final\5.Phương pháp tìm min max\obj\Debug\net6.0\Phương pháp tìm min max.GeneratedMSBuildEditorConfig.editorconfig
+E:\Giải tích số Final\5.Phương pháp tìm min max\obj\Debug\net6.0\Phương pháp tìm min max.AssemblyInfoInputs.cache
+E:\Giải tích số Final\5.Phương pháp tìm min max\obj\Debug\net6.0\Phương pháp tìm min max.AssemblyInfo.cs
+E:\Giải tích số Final\5.Phương pháp tìm min max\obj\Debug\net6.0\Phương pháp tìm min max.csproj.CoreCompileInputs.cache
+E:\Giải tích số Final\5.Phương pháp tìm min max\obj\Debug\net6.0\Phương pháp tìm min max.dll
+E:\Giải tích số Final\5.Phương pháp tìm min max\obj\Debug\net6.0\refint\Phương pháp tìm min max.dll
+E:\Giải tích số Final\5.Phương pháp tìm min max\obj\Debug\net6.0\Phương pháp tìm min max.pdb
+E:\Giải tích số Final\5.Phương pháp tìm min max\obj\Debug\net6.0\Phương pháp tìm min max.genruntimeconfig.cache
+E:\Giải tích số Final\5.Phương pháp tìm min max\obj\Debug\net6.0\ref\Phương pháp tìm min max.dll

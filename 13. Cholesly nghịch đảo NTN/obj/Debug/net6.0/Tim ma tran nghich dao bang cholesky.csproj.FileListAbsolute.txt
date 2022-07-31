@@ -1,0 +1,30 @@
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Tim ma tran nghich dao bang cholesky\obj\Debug\net6.0\Tim ma tran nghich dao bang cholesky.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Tim ma tran nghich dao bang cholesky\obj\Debug\net6.0\Tim ma tran nghich dao bang cholesky.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Tim ma tran nghich dao bang cholesky\obj\Debug\net6.0\Tim ma tran nghich dao bang cholesky.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Tim ma tran nghich dao bang cholesky\obj\Debug\net6.0\Tim ma tran nghich dao bang cholesky.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Tim ma tran nghich dao bang cholesky\obj\Debug\net6.0\Tim ma tran nghich dao bang cholesky.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Tim ma tran nghich dao bang cholesky\bin\Debug\net6.0\Tim ma tran nghich dao bang cholesky.exe
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Tim ma tran nghich dao bang cholesky\bin\Debug\net6.0\Tim ma tran nghich dao bang cholesky.deps.json
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Tim ma tran nghich dao bang cholesky\bin\Debug\net6.0\Tim ma tran nghich dao bang cholesky.runtimeconfig.json
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Tim ma tran nghich dao bang cholesky\bin\Debug\net6.0\Tim ma tran nghich dao bang cholesky.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Tim ma tran nghich dao bang cholesky\bin\Debug\net6.0\Tim ma tran nghich dao bang cholesky.pdb
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Tim ma tran nghich dao bang cholesky\obj\Debug\net6.0\Tim ma tran nghich dao bang cholesky.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Tim ma tran nghich dao bang cholesky\obj\Debug\net6.0\refint\Tim ma tran nghich dao bang cholesky.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Tim ma tran nghich dao bang cholesky\obj\Debug\net6.0\Tim ma tran nghich dao bang cholesky.pdb
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Tim ma tran nghich dao bang cholesky\obj\Debug\net6.0\Tim ma tran nghich dao bang cholesky.genruntimeconfig.cache
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Tim ma tran nghich dao bang cholesky\obj\Debug\net6.0\ref\Tim ma tran nghich dao bang cholesky.dll
+E:\Giải tích số Final\13. Cholesly nghịch đảo NTN\bin\Debug\net6.0\Tim ma tran nghich dao bang cholesky.exe
+E:\Giải tích số Final\13. Cholesly nghịch đảo NTN\bin\Debug\net6.0\Tim ma tran nghich dao bang cholesky.deps.json
+E:\Giải tích số Final\13. Cholesly nghịch đảo NTN\bin\Debug\net6.0\Tim ma tran nghich dao bang cholesky.runtimeconfig.json
+E:\Giải tích số Final\13. Cholesly nghịch đảo NTN\bin\Debug\net6.0\Tim ma tran nghich dao bang cholesky.dll
+E:\Giải tích số Final\13. Cholesly nghịch đảo NTN\bin\Debug\net6.0\Tim ma tran nghich dao bang cholesky.pdb
+E:\Giải tích số Final\13. Cholesly nghịch đảo NTN\obj\Debug\net6.0\Tim ma tran nghich dao bang cholesky.csproj.AssemblyReference.cache
+E:\Giải tích số Final\13. Cholesly nghịch đảo NTN\obj\Debug\net6.0\Tim ma tran nghich dao bang cholesky.GeneratedMSBuildEditorConfig.editorconfig
+E:\Giải tích số Final\13. Cholesly nghịch đảo NTN\obj\Debug\net6.0\Tim ma tran nghich dao bang cholesky.AssemblyInfoInputs.cache
+E:\Giải tích số Final\13. Cholesly nghịch đảo NTN\obj\Debug\net6.0\Tim ma tran nghich dao bang cholesky.AssemblyInfo.cs
+E:\Giải tích số Final\13. Cholesly nghịch đảo NTN\obj\Debug\net6.0\Tim ma tran nghich dao bang cholesky.csproj.CoreCompileInputs.cache
+E:\Giải tích số Final\13. Cholesly nghịch đảo NTN\obj\Debug\net6.0\Tim ma tran nghich dao bang cholesky.dll
+E:\Giải tích số Final\13. Cholesly nghịch đảo NTN\obj\Debug\net6.0\refint\Tim ma tran nghich dao bang cholesky.dll
+E:\Giải tích số Final\13. Cholesly nghịch đảo NTN\obj\Debug\net6.0\Tim ma tran nghich dao bang cholesky.pdb
+E:\Giải tích số Final\13. Cholesly nghịch đảo NTN\obj\Debug\net6.0\Tim ma tran nghich dao bang cholesky.genruntimeconfig.cache
+E:\Giải tích số Final\13. Cholesly nghịch đảo NTN\obj\Debug\net6.0\ref\Tim ma tran nghich dao bang cholesky.dll

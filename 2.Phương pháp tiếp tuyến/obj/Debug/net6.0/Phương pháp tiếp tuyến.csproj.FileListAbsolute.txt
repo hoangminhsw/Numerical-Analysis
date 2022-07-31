@@ -1,0 +1,15 @@
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp tiếp tuyến\bin\Debug\net6.0\Phương pháp tiếp tuyến.exe
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp tiếp tuyến\bin\Debug\net6.0\Phương pháp tiếp tuyến.deps.json
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp tiếp tuyến\bin\Debug\net6.0\Phương pháp tiếp tuyến.runtimeconfig.json
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp tiếp tuyến\bin\Debug\net6.0\Phương pháp tiếp tuyến.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp tiếp tuyến\bin\Debug\net6.0\Phương pháp tiếp tuyến.pdb
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp tiếp tuyến\obj\Debug\net6.0\Phương pháp tiếp tuyến.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp tiếp tuyến\obj\Debug\net6.0\Phương pháp tiếp tuyến.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp tiếp tuyến\obj\Debug\net6.0\Phương pháp tiếp tuyến.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp tiếp tuyến\obj\Debug\net6.0\Phương pháp tiếp tuyến.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp tiếp tuyến\obj\Debug\net6.0\Phương pháp tiếp tuyến.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp tiếp tuyến\obj\Debug\net6.0\Phương pháp tiếp tuyến.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp tiếp tuyến\obj\Debug\net6.0\refint\Phương pháp tiếp tuyến.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp tiếp tuyến\obj\Debug\net6.0\Phương pháp tiếp tuyến.pdb
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp tiếp tuyến\obj\Debug\net6.0\Phương pháp tiếp tuyến.genruntimeconfig.cache
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp tiếp tuyến\obj\Debug\net6.0\ref\Phương pháp tiếp tuyến.dll

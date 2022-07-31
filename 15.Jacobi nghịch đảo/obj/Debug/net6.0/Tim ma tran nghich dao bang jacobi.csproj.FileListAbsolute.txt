@@ -1,0 +1,15 @@
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Tim ma tran nghich dao bang jacobi\bin\Debug\net6.0\Tim ma tran nghich dao bang jacobi.exe
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Tim ma tran nghich dao bang jacobi\bin\Debug\net6.0\Tim ma tran nghich dao bang jacobi.deps.json
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Tim ma tran nghich dao bang jacobi\bin\Debug\net6.0\Tim ma tran nghich dao bang jacobi.runtimeconfig.json
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Tim ma tran nghich dao bang jacobi\bin\Debug\net6.0\Tim ma tran nghich dao bang jacobi.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Tim ma tran nghich dao bang jacobi\bin\Debug\net6.0\Tim ma tran nghich dao bang jacobi.pdb
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Tim ma tran nghich dao bang jacobi\obj\Debug\net6.0\Tim ma tran nghich dao bang jacobi.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Tim ma tran nghich dao bang jacobi\obj\Debug\net6.0\Tim ma tran nghich dao bang jacobi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Tim ma tran nghich dao bang jacobi\obj\Debug\net6.0\Tim ma tran nghich dao bang jacobi.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Tim ma tran nghich dao bang jacobi\obj\Debug\net6.0\Tim ma tran nghich dao bang jacobi.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Tim ma tran nghich dao bang jacobi\obj\Debug\net6.0\Tim ma tran nghich dao bang jacobi.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Tim ma tran nghich dao bang jacobi\obj\Debug\net6.0\Tim ma tran nghich dao bang jacobi.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Tim ma tran nghich dao bang jacobi\obj\Debug\net6.0\refint\Tim ma tran nghich dao bang jacobi.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Tim ma tran nghich dao bang jacobi\obj\Debug\net6.0\Tim ma tran nghich dao bang jacobi.pdb
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Tim ma tran nghich dao bang jacobi\obj\Debug\net6.0\Tim ma tran nghich dao bang jacobi.genruntimeconfig.cache
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Tim ma tran nghich dao bang jacobi\obj\Debug\net6.0\ref\Tim ma tran nghich dao bang jacobi.dll

@@ -1,0 +1,48 @@
+C:\Users\Admin\Documents\Gauss Seidel\Gauss Seidel\bin\Debug\net6.0\Gauss Seidel.exe
+C:\Users\Admin\Documents\Gauss Seidel\Gauss Seidel\bin\Debug\net6.0\MatrixInput.txt
+C:\Users\Admin\Documents\Gauss Seidel\Gauss Seidel\bin\Debug\net6.0\Gauss Seidel.deps.json
+C:\Users\Admin\Documents\Gauss Seidel\Gauss Seidel\bin\Debug\net6.0\Gauss Seidel.runtimeconfig.json
+C:\Users\Admin\Documents\Gauss Seidel\Gauss Seidel\bin\Debug\net6.0\Gauss Seidel.dll
+C:\Users\Admin\Documents\Gauss Seidel\Gauss Seidel\bin\Debug\net6.0\Gauss Seidel.pdb
+C:\Users\Admin\Documents\Gauss Seidel\Gauss Seidel\obj\Debug\net6.0\Gauss Seidel.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Gauss Seidel\Gauss Seidel\obj\Debug\net6.0\Gauss Seidel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Gauss Seidel\Gauss Seidel\obj\Debug\net6.0\Gauss Seidel.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Gauss Seidel\Gauss Seidel\obj\Debug\net6.0\Gauss Seidel.AssemblyInfo.cs
+C:\Users\Admin\Documents\Gauss Seidel\Gauss Seidel\obj\Debug\net6.0\Gauss Seidel.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Gauss Seidel\Gauss Seidel\obj\Debug\net6.0\Gauss Seidel.dll
+C:\Users\Admin\Documents\Gauss Seidel\Gauss Seidel\obj\Debug\net6.0\refint\Gauss Seidel.dll
+C:\Users\Admin\Documents\Gauss Seidel\Gauss Seidel\obj\Debug\net6.0\Gauss Seidel.pdb
+C:\Users\Admin\Documents\Gauss Seidel\Gauss Seidel\obj\Debug\net6.0\Gauss Seidel.genruntimeconfig.cache
+C:\Users\Admin\Documents\Gauss Seidel\Gauss Seidel\obj\Debug\net6.0\ref\Gauss Seidel.dll
+E:\Gauss Seidel\Gauss Seidel\bin\Debug\net6.0\Gauss Seidel.exe
+E:\Gauss Seidel\Gauss Seidel\bin\Debug\net6.0\MatrixInput.txt
+E:\Gauss Seidel\Gauss Seidel\bin\Debug\net6.0\Gauss Seidel.deps.json
+E:\Gauss Seidel\Gauss Seidel\bin\Debug\net6.0\Gauss Seidel.runtimeconfig.json
+E:\Gauss Seidel\Gauss Seidel\bin\Debug\net6.0\Gauss Seidel.dll
+E:\Gauss Seidel\Gauss Seidel\bin\Debug\net6.0\Gauss Seidel.pdb
+E:\Gauss Seidel\Gauss Seidel\obj\Debug\net6.0\Gauss Seidel.csproj.AssemblyReference.cache
+E:\Gauss Seidel\Gauss Seidel\obj\Debug\net6.0\Gauss Seidel.GeneratedMSBuildEditorConfig.editorconfig
+E:\Gauss Seidel\Gauss Seidel\obj\Debug\net6.0\Gauss Seidel.AssemblyInfoInputs.cache
+E:\Gauss Seidel\Gauss Seidel\obj\Debug\net6.0\Gauss Seidel.AssemblyInfo.cs
+E:\Gauss Seidel\Gauss Seidel\obj\Debug\net6.0\Gauss Seidel.csproj.CoreCompileInputs.cache
+E:\Gauss Seidel\Gauss Seidel\obj\Debug\net6.0\Gauss Seidel.dll
+E:\Gauss Seidel\Gauss Seidel\obj\Debug\net6.0\refint\Gauss Seidel.dll
+E:\Gauss Seidel\Gauss Seidel\obj\Debug\net6.0\Gauss Seidel.pdb
+E:\Gauss Seidel\Gauss Seidel\obj\Debug\net6.0\Gauss Seidel.genruntimeconfig.cache
+E:\Gauss Seidel\Gauss Seidel\obj\Debug\net6.0\ref\Gauss Seidel.dll
+E:\Giải tích số Final\10.Gauss Seidel\bin\Debug\net6.0\Gauss Seidel.exe
+E:\Giải tích số Final\10.Gauss Seidel\bin\Debug\net6.0\MatrixInput.txt
+E:\Giải tích số Final\10.Gauss Seidel\bin\Debug\net6.0\Gauss Seidel.deps.json
+E:\Giải tích số Final\10.Gauss Seidel\bin\Debug\net6.0\Gauss Seidel.runtimeconfig.json
+E:\Giải tích số Final\10.Gauss Seidel\bin\Debug\net6.0\Gauss Seidel.dll
+E:\Giải tích số Final\10.Gauss Seidel\bin\Debug\net6.0\Gauss Seidel.pdb
+E:\Giải tích số Final\10.Gauss Seidel\obj\Debug\net6.0\Gauss Seidel.csproj.AssemblyReference.cache
+E:\Giải tích số Final\10.Gauss Seidel\obj\Debug\net6.0\Gauss Seidel.GeneratedMSBuildEditorConfig.editorconfig
+E:\Giải tích số Final\10.Gauss Seidel\obj\Debug\net6.0\Gauss Seidel.AssemblyInfoInputs.cache
+E:\Giải tích số Final\10.Gauss Seidel\obj\Debug\net6.0\Gauss Seidel.AssemblyInfo.cs
+E:\Giải tích số Final\10.Gauss Seidel\obj\Debug\net6.0\Gauss Seidel.csproj.CoreCompileInputs.cache
+E:\Giải tích số Final\10.Gauss Seidel\obj\Debug\net6.0\Gauss Seidel.dll
+E:\Giải tích số Final\10.Gauss Seidel\obj\Debug\net6.0\refint\Gauss Seidel.dll
+E:\Giải tích số Final\10.Gauss Seidel\obj\Debug\net6.0\Gauss Seidel.pdb
+E:\Giải tích số Final\10.Gauss Seidel\obj\Debug\net6.0\Gauss Seidel.genruntimeconfig.cache
+E:\Giải tích số Final\10.Gauss Seidel\obj\Debug\net6.0\ref\Gauss Seidel.dll

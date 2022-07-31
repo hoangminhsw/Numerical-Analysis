@@ -1,0 +1,15 @@
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp lặp đơn\obj\Debug\net6.0\Phương pháp lặp đơn.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp lặp đơn\obj\Debug\net6.0\Phương pháp lặp đơn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp lặp đơn\obj\Debug\net6.0\Phương pháp lặp đơn.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp lặp đơn\obj\Debug\net6.0\Phương pháp lặp đơn.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp lặp đơn\obj\Debug\net6.0\Phương pháp lặp đơn.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp lặp đơn\bin\Debug\net6.0\Phương pháp lặp đơn.exe
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp lặp đơn\bin\Debug\net6.0\Phương pháp lặp đơn.deps.json
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp lặp đơn\bin\Debug\net6.0\Phương pháp lặp đơn.runtimeconfig.json
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp lặp đơn\bin\Debug\net6.0\Phương pháp lặp đơn.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp lặp đơn\bin\Debug\net6.0\Phương pháp lặp đơn.pdb
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp lặp đơn\obj\Debug\net6.0\Phương pháp lặp đơn.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp lặp đơn\obj\Debug\net6.0\refint\Phương pháp lặp đơn.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp lặp đơn\obj\Debug\net6.0\Phương pháp lặp đơn.pdb
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp lặp đơn\obj\Debug\net6.0\Phương pháp lặp đơn.genruntimeconfig.cache
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp lặp đơn\obj\Debug\net6.0\ref\Phương pháp lặp đơn.dll

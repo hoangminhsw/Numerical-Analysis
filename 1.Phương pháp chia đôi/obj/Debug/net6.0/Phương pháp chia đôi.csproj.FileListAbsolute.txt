@@ -1,0 +1,15 @@
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp chia đôi\bin\Debug\net6.0\Phương pháp chia đôi.exe
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp chia đôi\bin\Debug\net6.0\Phương pháp chia đôi.deps.json
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp chia đôi\bin\Debug\net6.0\Phương pháp chia đôi.runtimeconfig.json
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp chia đôi\bin\Debug\net6.0\Phương pháp chia đôi.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp chia đôi\bin\Debug\net6.0\Phương pháp chia đôi.pdb
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp chia đôi\obj\Debug\net6.0\Phương pháp chia đôi.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp chia đôi\obj\Debug\net6.0\Phương pháp chia đôi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp chia đôi\obj\Debug\net6.0\Phương pháp chia đôi.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp chia đôi\obj\Debug\net6.0\Phương pháp chia đôi.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp chia đôi\obj\Debug\net6.0\Phương pháp chia đôi.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp chia đôi\obj\Debug\net6.0\Phương pháp chia đôi.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp chia đôi\obj\Debug\net6.0\refint\Phương pháp chia đôi.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp chia đôi\obj\Debug\net6.0\Phương pháp chia đôi.pdb
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp chia đôi\obj\Debug\net6.0\Phương pháp chia đôi.genruntimeconfig.cache
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\Tài liệu\Nam 2 ki 2\GTS\Phương pháp chia đôi\obj\Debug\net6.0\ref\Phương pháp chia đôi.dll
